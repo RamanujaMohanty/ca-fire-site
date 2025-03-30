@@ -1,1 +1,28 @@
-.navbar
+body
+{
+
+}
+.header
+{
+	text-align: center;
+	color: #FF5B04;
+	background-color: #1F7D1F;
+	padding: 25px;
+}
+.header h1
+{
+	font-size: 95px;
+}
+.header p
+{
+	font-size: 35px;
+}
+#navbar
+{
+	position: sticky;
+	top: 0;
+	overflow: hidden;
+	padding: 25px;
+	background-color: #1F7F1F;
+
+}
