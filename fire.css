@@ -30,7 +30,13 @@ body{
 	position: sticky;
 	top: 0;
 	overflow: hidden;
-	padding: 25px;
-	background-color: #1F7F1F;
-
+	padding: 55px;
+	background-color: #04AA6D;
+	/*text-align: center;
+	font-size: 25px;*/
+}
+#navbar a
+{
+	/*float: center;*/
+	text-align: center;
 }
