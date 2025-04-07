@@ -30,13 +30,23 @@ body{
 	position: sticky;
 	top: 0;
 	overflow: hidden;
-	padding: 55px;
-	background-color: #04AA6D;
+	padding: 25px;
+	background-color:  #04AA6D;
 	/*text-align: center;
 	font-size: 25px;*/
 }
 #navbar a
 {
-	/*float: center;*/
+	float: left;
+	display: block;
 	text-align: center;
+	padding 14px 16px;
+	text-decoration: none;
+	font-size: 20px;
+	margin-right: 10px;
+}
+#navbar a:hover
+{
+	background-color: #23B865;
+	color: #ffffff;
 }
