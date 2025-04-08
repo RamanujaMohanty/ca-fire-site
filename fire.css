@@ -1,5 +1,5 @@
 body{
-
+	background-color: #002D04;
 }
 /** .header
 {
@@ -19,11 +19,15 @@ body{
 */
 .title-image{
 	background-image: url("https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/2600/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fee%2F58%2F5e03632b484d965ae290c926e20d%2Fla-fires-key-moments-19.jpg");
-	background-color: #CCCCCC;
+	/*background-color: #002D04;*/
 	height: 1100px;
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
+}
+#home
+{
+	color: #ffffff;
 }
 #navbar
 {
@@ -31,7 +35,7 @@ body{
 	top: 0;
 	overflow: hidden;
 	padding: 25px;
-	background-color:  #04AA6D;
+	background-color:  #002D04;
 	/*text-align: center;
 	font-size: 25px;*/
 }
@@ -44,9 +48,9 @@ body{
 	text-decoration: none;
 	font-size: 20px;
 	margin-right: 10px;
+	color: #FF5C00;
 }
 #navbar a:hover
 {
-	background-color: #23B865;
 	color: #ffffff;
 }
